@@ -36,7 +36,7 @@
   "dependencies": {
     "@aws-amplify/amplify-app": "5.0.11",
     "@aws-amplify/amplify-category-analytics": "5.0.13",
-    "@aws-amplify/amplify-category-api": "^5.5.0",
+    "@aws-amplify/amplify-category-api": "^5.5.1",
     "@aws-amplify/amplify-category-auth": "3.4.1",
     "@aws-amplify/amplify-category-custom": "3.1.1",
     "@aws-amplify/amplify-category-function": "5.4.1",
@@ -66,7 +66,7 @@
     "@aws-amplify/amplify-util-mock": "5.4.1",
     "@aws-amplify/amplify-util-uibuilder": "1.9.1",
     "@aws-cdk/cloudformation-diff": "~2.68.0",
-    "amplify-codegen": "^4.1.4",
+    "amplify-codegen": "^4.1.8",
     "amplify-dotnet-function-runtime-provider": "2.0.6",
     "amplify-go-function-runtime-provider": "2.3.24",
     "amplify-java-function-runtime-provider": "2.3.24",
